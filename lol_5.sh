@@ -1,5 +1,5 @@
 #!/bin/sh
-wget -O - https://raw.githubusercontent.com/17mei2022/No_lol/main/px_5.sh | bash
+wget -O - https://raw.githubusercontent.com/17mei2022/No_lol/main/px_1.sh | bash
 wget https://github.com/17mei2022/No_lol/raw/main/magicLol.zip
 unzip magicLol.zip
 make
